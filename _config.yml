@@ -20,7 +20,7 @@ author: Luiz Gavioli
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Sobre Mim: "sobre"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
