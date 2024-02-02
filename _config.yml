@@ -21,9 +21,9 @@ author: Luiz Gavioli
 
 navbar-links:
   Sobre Mim: "sobre"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  #Resources:
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #
