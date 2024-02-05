@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4778ca38-a3f1-4c13-9824-498d417609c7/deploy-status)](https://app.netlify.com/sites/luizgavioli/deploys)
 # Beautiful Jekyll
 
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
