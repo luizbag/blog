@@ -21,6 +21,7 @@ author: Luiz Gavioli
 
 navbar-links:
   Sobre Mim: "sobre"
+  Contato: "contato"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
