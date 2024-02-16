@@ -1,5 +1,5 @@
 ---
 layout: leituras
 title: Leituras
+full-width: true
 ---
-Livros que li, estou lendo ou lerei.

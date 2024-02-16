@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Leituras
 ---
 {{content}}
 
 {% assign autores = site.leituras | group_by: 'autor' %}
 {% assign autoresOrdenados = autores | sort: 'name' %}
 
-<table>
+<table class="table-center">
     <tr>
         <th>Título</th>
         <th>Autor(a)</th>

@@ -836,6 +836,10 @@ table tr td :last-child {
   margin-bottom: 0;
 }
 
+.table-center {
+  margin: 0 auto;
+}
+
 /* --- Code blocks --- */
 
 code {
