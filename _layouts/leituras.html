@@ -11,6 +11,8 @@ title: Leituras
     <tr>
         <th>Título</th>
         <th>Autor(a)</th>
+        <th>Série</th>
+        <th>Volume</th>
         <th>Status</th>
     </tr>
     {% for autor in autoresOrdenados %}
@@ -25,6 +27,8 @@ title: Leituras
             {% endif %}
             </td>
         <td>{{livro.autor}}</td>
+        <td>{{livro.serie}}</td>
+        <td>{{livro.volume}}</td>
         <td>{{livro.status | capitalize}}</td>
     </tr>
     {% endfor %}

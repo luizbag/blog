@@ -5,5 +5,5 @@ autor: J.K. Rowling
 status: lido
 revisado: false
 serie: Harry Potter
-valume: 1
+volume: 1
 ---
