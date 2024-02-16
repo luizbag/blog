@@ -1,9 +1,9 @@
 ---
 layout: page
-title: O Arqueiro
+title: O Andarilho
 autor: Bernard Cornwell
-status: lido
+status: lerei
 revisado: false
 serie: A Busca do Graal
-volume: 1
+volume: 2
 ---
