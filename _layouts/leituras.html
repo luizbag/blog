@@ -16,21 +16,25 @@ title: Leituras
         <th>Status</th>
     </tr>
     {% for autor in autoresOrdenados %}
-    {% assign livros = autor.items | sort: "title" %}
-    {% for livro in livros %}
-    <tr>
-        <td>
-            {% if livro.revisado %}
-                <a href="{{livro.url}}">{{livro.title}}</a>
-            {% else %}
-                {{livro.title}}
-            {% endif %}
-            </td>
-        <td>{{livro.autor}}</td>
-        <td>{{livro.serie}}</td>
-        <td>{{livro.volume}}</td>
-        <td>{{livro.status | capitalize}}</td>
-    </tr>
-    {% endfor %}
+        {% assign series = autor.items | group_by: 'serie' %}
+        {% assign seriesOrdenadas = series | sort: 'name' %}
+        {% for serie in seriesOrdenadas %}
+            {% assign livros = serie.items | sort: 'volume' %}
+            {% for livro in livros %}
+            <tr>
+                <td>
+                    {% if livro.revisado %}
+                        <a href="{{livro.url}}">{{livro.title}}</a>
+                    {% else %}
+                        {{livro.title}}
+                    {% endif %}
+                </td>
+                <td>{{livro.autor}}</td>
+                <td>{{livro.serie}}</td>
+                <td>{{livro.volume}}</td>
+                <td>{{livro.status | capitalize}}</td>
+            </tr>
+            {% endfor %}
+        {% endfor %}
     {% endfor %}
 </table>
