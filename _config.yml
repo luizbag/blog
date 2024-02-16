@@ -20,6 +20,7 @@ language: pt-BR
 ###############################################
 
 navbar-links:
+  Leituras: "leituras"
   Sobre Mim: "sobre"
   Contato: "contato"
   #Resources:
@@ -261,6 +262,10 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
+
+collections:
+  leituras:
+    output: true
 
 kramdown:
   input: GFM

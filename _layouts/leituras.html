@@ -1,0 +1,32 @@
+---
+layout: page
+title: Leituras
+---
+{{content}}
+
+{% assign autores = site.leituras | group_by: 'autor' %}
+{% assign autoresOrdenados = autores | sort: 'name' %}
+
+<table>
+    <tr>
+        <th>Título</th>
+        <th>Autor(a)</th>
+        <th>Status</th>
+    </tr>
+    {% for autor in autoresOrdenados %}
+    {% assign livros = autor.items | sort: "title" %}
+    {% for livro in livros %}
+    <tr>
+        <td>
+            {% if livro.revisado %}
+                <a href="{{livro.url}}">{{livro.title}}</a>
+            {% else %}
+                {{livro.title}}
+            {% endif %}
+            </td>
+        <td>{{livro.autor}}</td>
+        <td>{{livro.status | capitalize}}</td>
+    </tr>
+    {% endfor %}
+    {% endfor %}
+</table>
