@@ -1,7 +1,7 @@
 ---
 layout: page
-title: O Cortiço
-autor: Aluísio Azevedo
+title: Herança
+autor: Christopher Paolini
 status: lido
 revisado: false
 ---

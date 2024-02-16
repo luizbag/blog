@@ -1,7 +1,7 @@
 ---
 layout: page
-title: O Cortiço
-autor: Aluísio Azevedo
+title: O Arqueiro
+autor: Bernard Cornwell
 status: lido
 revisado: false
 ---

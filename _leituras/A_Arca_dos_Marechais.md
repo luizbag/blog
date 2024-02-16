@@ -1,7 +1,7 @@
 ---
 layout: page
-title: O Cortiço
-autor: Aluísio Azevedo
+title: A Arca dos Marechais
+autor: Marcos Rey
 status: lido
 revisado: false
 ---

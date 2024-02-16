@@ -1,7 +1,7 @@
 ---
 layout: page
-title: O Cortiço
-autor: Aluísio Azevedo
+title: A Aprendiz
+autor: Trudi Canavan
 status: lido
 revisado: false
 ---

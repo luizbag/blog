@@ -1,7 +1,7 @@
 ---
 layout: page
-title: O Cortiço
-autor: Aluísio Azevedo
+title: Jogador Número 1
+autor: Ernest Cline
 status: lido
 revisado: false
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: O Cortiço
-autor: Aluísio Azevedo
+title: Um Rosto no Computador
+autor: Marcos Rey
 status: lido
 revisado: false
 ---

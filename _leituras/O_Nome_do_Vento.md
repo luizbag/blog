@@ -1,7 +1,7 @@
 ---
 layout: page
-title: O Cortiço
-autor: Aluísio Azevedo
+title: O Nome do Vento
+autor: Patrick Rothfuss
 status: lido
 revisado: false
 ---

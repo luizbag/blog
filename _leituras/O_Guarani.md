@@ -1,7 +1,7 @@
 ---
 layout: page
-title: O Cortiço
-autor: Aluísio Azevedo
+title: O Guarani
+autor: José de Alencar
 status: lido
 revisado: false
 ---

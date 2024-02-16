@@ -1,7 +1,7 @@
 ---
 layout: page
-title: O Cortiço
-autor: Aluísio Azevedo
+title: Robinson Crusoe
+autor: Daniel Defoe
 status: lido
 revisado: false
 ---

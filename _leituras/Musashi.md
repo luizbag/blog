@@ -1,7 +1,7 @@
 ---
 layout: page
-title: O Cortiço
-autor: Aluísio Azevedo
+title: Musashi
+autor: Eiji Yoshikawa
 status: lido
 revisado: false
 ---

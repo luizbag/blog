@@ -1,7 +1,7 @@
 ---
 layout: page
-title: O Cortiço
-autor: Aluísio Azevedo
+title: Lugar Nenhum
+autor: Neil Gaiman
 status: lido
 revisado: false
 ---

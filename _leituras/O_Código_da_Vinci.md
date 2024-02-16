@@ -1,7 +1,7 @@
 ---
 layout: page
-title: O Cortiço
-autor: Aluísio Azevedo
+title: O Código da Vinci
+autor: Dan Brown
 status: lido
 revisado: false
 ---

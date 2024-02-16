@@ -1,7 +1,7 @@
 ---
 layout: page
-title: O Cortiço
-autor: Aluísio Azevedo
+title: Inferno
+autor: Dan Brown
 status: lido
 revisado: false
 ---

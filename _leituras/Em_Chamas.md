@@ -1,7 +1,7 @@
 ---
 layout: page
-title: O Hobbit
-autor: J. R. R. Tolkien
+title: Em Chamas
+autor: Suzanne Collins
 status: lido
 revisado: false
 ---

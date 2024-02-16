@@ -1,7 +1,7 @@
 ---
 layout: page
-title: O Cortiço
-autor: Aluísio Azevedo
+title: Clube da Luta
+autor: Chuck Palahnuik
 status: lido
 revisado: false
 ---

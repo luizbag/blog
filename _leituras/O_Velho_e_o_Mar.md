@@ -1,7 +1,7 @@
 ---
 layout: page
-title: O Cortiço
-autor: Aluísio Azevedo
+title: O Velho e o Mar
+autor: Ernest Hemingway
 status: lido
 revisado: false
 ---

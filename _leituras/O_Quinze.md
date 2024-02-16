@@ -1,7 +1,7 @@
 ---
 layout: page
-title: O Cortiço
-autor: Aluísio Azevedo
+title: O Quinze
+autor: Rachel de Queiroz
 status: lido
 revisado: false
 ---

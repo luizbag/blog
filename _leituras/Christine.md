@@ -1,7 +1,7 @@
 ---
 layout: page
-title: O Cortiço
-autor: Aluísio Azevedo
+title: Christine
+autor: Stephen King
 status: lido
 revisado: false
 ---

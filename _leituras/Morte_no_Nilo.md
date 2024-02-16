@@ -1,7 +1,7 @@
 ---
 layout: page
-title: O Cortiço
-autor: Aluísio Azevedo
+title: Morte no Nilo
+autor: Agatha Christie
 status: lido
 revisado: false
 ---

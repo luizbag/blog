@@ -1,7 +1,7 @@
 ---
 layout: page
-title: O Cortiço
-autor: Aluísio Azevedo
+title: Deuses Americanos
+autor: Neil Gaiman
 status: lido
 revisado: false
 ---

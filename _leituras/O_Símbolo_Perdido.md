@@ -1,7 +1,7 @@
 ---
 layout: page
-title: O Cortiço
-autor: Aluísio Azevedo
+title: O Símbolo Perdido
+autor: Dan Brown
 status: lido
 revisado: false
 ---

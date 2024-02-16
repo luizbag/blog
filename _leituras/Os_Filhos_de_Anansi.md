@@ -1,7 +1,7 @@
 ---
 layout: page
-title: O Cortiço
-autor: Aluísio Azevedo
+title: Os Filhos de Anansi
+autor: Neil Gaiman
 status: lido
 revisado: false
 ---

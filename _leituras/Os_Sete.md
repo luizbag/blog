@@ -1,7 +1,7 @@
 ---
 layout: page
-title: O Cortiço
-autor: Aluísio Azevedo
+title: Os Sete
+autor: André Vianco
 status: lido
 revisado: false
 ---

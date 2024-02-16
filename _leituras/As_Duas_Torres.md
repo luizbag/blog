@@ -1,7 +1,7 @@
 ---
 layout: page
-title: O Cortiço
-autor: Aluísio Azevedo
+title: As Duas Torres
+autor: J.R.R. Tolkien
 status: lido
 revisado: false
 ---

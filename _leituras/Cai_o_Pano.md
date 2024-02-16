@@ -1,7 +1,7 @@
 ---
 layout: page
-title: O Cortiço
-autor: Aluísio Azevedo
+title: Cai o Pano
+autor: Agatha Christie
 status: lido
 revisado: false
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: O Cortiço
-autor: Aluísio Azevedo
+title: Jogos Vorazes
+autor: Suzanne Collins
 status: lido
 revisado: false
 ---

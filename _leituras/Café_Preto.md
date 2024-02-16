@@ -1,7 +1,7 @@
 ---
 layout: page
-title: O Cortiço
-autor: Aluísio Azevedo
+title: Café Preto
+autor: Agatha Christie
 status: lido
 revisado: false
 ---

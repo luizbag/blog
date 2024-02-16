@@ -1,7 +1,7 @@
 ---
 layout: page
-title: O Cortiço
-autor: Aluísio Azevedo
+title: Um Cadáver Ouve Rádio
+autor: Marcos Rey
 status: lido
 revisado: false
 ---
