@@ -13,6 +13,7 @@ layout: page
         <th>Série</th>
         <th>Volume</th>
         <th>Status</th>
+        <th>Nota</th>
     </tr>
     {% for autor in autoresOrdenados %}
         {% assign series = autor.items | group_by: 'serie' %}
@@ -23,7 +24,7 @@ layout: page
             <tr>
                 <td>
                     {% if livro.revisado %}
-                        <a href="{{livro.url}}">{{livro.title}}</a>
+                        <a href="{{livro.post}}">{{livro.title}}</a>
                     {% else %}
                         {{livro.title}}
                     {% endif %}
@@ -32,6 +33,7 @@ layout: page
                 <td>{{livro.serie}}</td>
                 <td>{{livro.volume}}</td>
                 <td>{{livro.status | capitalize}}</td>
+                <td>{{livro.nota}}</td>
             </tr>
             {% endfor %}
         {% endfor %}
