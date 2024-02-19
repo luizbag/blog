@@ -160,12 +160,12 @@
   <link rel="stylesheet" href="{{ "/assets/css/staticman.css" | relative_url }}">
   {% endif %}
 
-  {% assign favicon_exists = site.static_files | where: "path", "/favicon.ico" | size %}
+  {% assign favicon_exists = site.static_files | where: "path", "/assets/favicon.ico" | size %}
   {% if favicon_exists == 1 %}
-    <link rel="apple-touch-icon" sizes="180x180" href="{{" /apple-touch-icon.png" | relative_url }}"">
-    <link rel="icon" type="image/png" sizes="32x32" href="{{"/favicon-32x32.png" | relative_url}}">
-    <link rel="icon" type="image/png" sizes="16x16" href="{{"/favicon-16x16.png" | relative_url}}">
-    <link rel="manifest" href="{{"/site.webmanifest" | relative_url}}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/apple-touch-icon.png" | relative_url }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ "/assets/favicon-32x32.png" | relative_url}}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ "/assets/favicon-16x16.png" | relative_url}}">
+    <link rel="manifest" href="{{ "/assets/site.webmanifest" | relative_url}}">
   {% endif %}
 
   {% if page.head-extra %}
