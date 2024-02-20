@@ -20,6 +20,8 @@ language: pt-BR
 ###############################################
 
 navbar-links:
+  Projetos: "projetos"
+  Distrações: "distracoes"
   Leituras: "leituras"
   Sobre Mim: "sobre"
   Contato: "contato"
@@ -265,6 +267,10 @@ paginate: 5
 
 collections:
   leituras:
+    output: false
+  fotografias:
+    output: true
+  pinturas:
     output: true
 
 kramdown:
