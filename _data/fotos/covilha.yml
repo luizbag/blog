@@ -1,0 +1,20 @@
+base_url: /assets/img/fotos/covilha
+fotos:
+  - nome: 1
+    url: 1.JPG
+  - nome: 2
+    url: 2.JPG
+  - nome: 3
+    url: 3.JPG
+  - nome: 4
+    url: 4.JPG
+  - nome: 5
+    url: 5.JPG
+  - nome: 6
+    url: 6.JPG
+  - nome: 7
+    url: 7.JPG
+  - nome: 8
+    url: 8.JPG
+  - nome: 9
+    url: 9.JPG

@@ -1,0 +1,10 @@
+---
+layout: page
+title: Covilhã
+full-width: true
+---
+{% assign image_files = site.data.fotos.covilha.fotos %}
+{% assign base_url = site.data.fotos.covilha.base_url %}
+{% for file in image_files %}
+<a href="{{base_url}}\{{file.url}}"><img src="{{base_url}}\{{file.url}}" class="img-fluid w-75 center p-5"/></a>
+{% endfor %}
